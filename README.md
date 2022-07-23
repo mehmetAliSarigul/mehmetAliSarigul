@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Java & MSSQL
+- ⚡ I want to say that Design Patterns, Clean Code and Refactoring are excellent areas to work on for me 😁
+- 💬 Let's talk about computer science, technology and the above things that i wrote in the second line 😁
+
 <!--
 **mehmetAliSarigul/mehmetAliSarigul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
